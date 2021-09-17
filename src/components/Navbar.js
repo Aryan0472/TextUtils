@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 export default function Navbar(props) {
 
   const [myStyle, setMyStyle] = useState({
-    color : 'blue'
+   color : 'blue'
 })
 
     return (
